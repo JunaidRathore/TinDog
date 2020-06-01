@@ -70,7 +70,10 @@ text-align: center;
   background-color: #ef8172;
   text-align: center;
   color: white;
+}
+.carousel-item{
   padding: 7% 20%;
+
 }
 #user-feedback h1{
   font-weight: "Montserrat-Black";
